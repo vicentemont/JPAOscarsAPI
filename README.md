@@ -1,4 +1,4 @@
-# Oscars REST API
+# Simple Oscars REST API
 
 Welcome to the Oscars REST API! This project provides a RESTful API for managing and retrieving information about Oscars and related movies.
 
